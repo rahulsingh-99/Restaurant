@@ -14,7 +14,7 @@ const uniqueList = [
     "All",
 ];
 
-console.log(uniqueList)
+console.log(uniqueList);
 
 const Restaurant = () => {
 
